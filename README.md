@@ -1,5 +1,3 @@
-
-
 First Project of the Udacity Full Stack Developer
 
 Description 
@@ -14,6 +12,5 @@ Run the file entertainmentCenter.py from your Terminal using the command: $ pyth
 
 feature requests
 
-If you have Any problem use And performance or Any idea is not addressed yet, contact me On Gmail :
-saad.azghour@gmail.com
+If you have Any problem use And performance or Any idea is not addressed yet, contact me On Gmail : saad.azghour@gmail.com
 
